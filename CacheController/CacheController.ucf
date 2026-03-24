@@ -1,2 +1,0 @@
-#Clk Signal
-Net  "clk" loc = "C9" ;

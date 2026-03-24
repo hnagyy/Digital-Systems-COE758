@@ -1,3 +1,0 @@
-work	"CPU_gen.vhd"
-work	"CacheController.vhd"
-work	"SDRAMController.vhd"

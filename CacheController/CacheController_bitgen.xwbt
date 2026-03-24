@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=/home/student1/hnagy/Desktop/project_1_Cache_Controller/CacheController/CacheController.ncd
-OUTFILE=/home/student1/hnagy/Desktop/project_1_Cache_Controller/CacheController/CacheController.bit
-FAMILY=Spartan3E
-PART=xc3s500e-5fg320
-WORKINGDIR=/home/student1/hnagy/Desktop/project_1_Cache_Controller/CacheController
-LICENSE=ISE
-USER_INFO=175353682_174116511_210722484_808
