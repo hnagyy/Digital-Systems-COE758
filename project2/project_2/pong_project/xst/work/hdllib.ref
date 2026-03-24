@@ -1,0 +1,6 @@
+AR pong_game behavioral /home/student1/hnagy/Desktop/coe758_project2/project_2/pong_project/pong_game.vhd sub00/vhpl01 1763245895
+AR ila ila_a /home/student1/hnagy/Desktop/coe758_project2/project_2/pong_project/ipcore_dir/ila.vhd sub00/vhpl05 1763245893
+AR icon icon_a /home/student1/hnagy/Desktop/coe758_project2/project_2/pong_project/ipcore_dir/icon.vhd sub00/vhpl03 1763245891
+EN icon NULL /home/student1/hnagy/Desktop/coe758_project2/project_2/pong_project/ipcore_dir/icon.vhd sub00/vhpl02 1763245890
+EN pong_game NULL /home/student1/hnagy/Desktop/coe758_project2/project_2/pong_project/pong_game.vhd sub00/vhpl00 1763245894
+EN ila NULL /home/student1/hnagy/Desktop/coe758_project2/project_2/pong_project/ipcore_dir/ila.vhd sub00/vhpl04 1763245892
